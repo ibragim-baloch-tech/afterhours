@@ -64,4 +64,4 @@ None yet.
 - Whether to add packages/shared now or later
 
 ## Next task
-Phase 1, Task 4: design tokens and basic app shell (after reviewing the generated files).
+Phase 2, Task 5: create Supabase project, store URL and public key in apps/web/.env.local.
