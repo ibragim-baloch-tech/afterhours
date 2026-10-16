@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Secrets: never commit these
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Build output
+.next/
+out/
+dist/
+build/
+.expo/
+
+# Logs and system files
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+
+# Supabase local files
+supabase/.temp/
+supabase/.branches/
