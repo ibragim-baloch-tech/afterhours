@@ -1,6 +1,6 @@
 # AFTERHOURS: Project State
 
-Last updated: Phase 1, Task 3 complete (pending browser check)
+Last updated: Phase 1 complete, starting Phase 2
 
 ## Product summary
 AFTERHOURS is a social discovery platform for university students and young adults (18+)
@@ -29,7 +29,7 @@ afterhours/
   apps/web/   (Next.js app: app/, public/, package.json, etc.)
 
 ## Implemented features
-None yet. Only the default Next.js starter exists.
+- Design tokens (light/dark, ivory/charcoal/lime), accessible app shell (skip link, header, main, footer), placeholder home page. Founder reported tsc, lint, build and both themes passing; outputs not reviewed.
 
 ## Database schema
 None yet.
